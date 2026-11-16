@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "buffer": "^6.0.3",
-    "iconv-lite": "^1.0.0-alpha.2",
+    "iconv-lite": "^1.0.0-beta.1",
     "qrcode-generator": "^2.0.4"
   },
   "devDependencies": {
