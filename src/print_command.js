@@ -60,6 +60,8 @@ export default class PrintCommand {
     data.push(0x1f, 0x73) // 固定
     data.push(...config)
     data.push(xor)   // XOR 校验值
+
+    return data
   }
 
   // 设置蓝牙名称

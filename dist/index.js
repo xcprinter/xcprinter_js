@@ -12154,6 +12154,7 @@ var PrintCommand = class {
 		data.push(31, 115);
 		data.push(...config);
 		data.push(xor);
+		return data;
 	}
 	setName(value) {
 		const name = import_index_node.default.encode(value, "utf-8");
