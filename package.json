@@ -1,8 +1,8 @@
 {
   "name": "xcprinter",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "type": "module",
-  "description": "XC-Printer Official DEV kit",
+  "description": "XC-Printer Official Dev Kit",
   "keywords": [
     "CPCL",
     "POS",
